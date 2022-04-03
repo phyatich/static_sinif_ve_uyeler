@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/bin/Debug/net5.0/static_sinif_ve_uyeler.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/bin/Debug/net5.0/static_sinif_ve_uyeler.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/bin/Debug/net5.0/static_sinif_ve_uyeler.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/bin/Debug/net5.0/static_sinif_ve_uyeler.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/bin/Debug/net5.0/ref/static_sinif_ve_uyeler.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/bin/Debug/net5.0/static_sinif_ve_uyeler.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/obj/Debug/net5.0/static_sinif_ve_uyeler.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/obj/Debug/net5.0/static_sinif_ve_uyeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/obj/Debug/net5.0/static_sinif_ve_uyeler.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/obj/Debug/net5.0/static_sinif_ve_uyeler.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/obj/Debug/net5.0/static_sinif_ve_uyeler.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/obj/Debug/net5.0/static_sinif_ve_uyeler.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/obj/Debug/net5.0/ref/static_sinif_ve_uyeler.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/obj/Debug/net5.0/static_sinif_ve_uyeler.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/static_sinif_ve_uyeler/obj/Debug/net5.0/static_sinif_ve_uyeler.genruntimeconfig.cache
